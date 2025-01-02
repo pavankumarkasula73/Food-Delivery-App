@@ -48,7 +48,6 @@ Follow these instructions to run the game locally:
    - Double-click the `index.html` file in the root directory, or
    - Run the following command to start a local server:
      ```bash
-     python -m http.server
      ```
      Then open `http: ` in your browser.
 
