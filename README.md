@@ -1,4 +1,4 @@
-# HungryRun
+# HungryRun 💨 🏃‍♀️💨
 
 HungryRun is an interactive and fun food delivery game that challenges players to navigate through obstacles, collect food items, and deliver them to customers. Designed with an engaging interface and smooth gameplay, HungryRun is perfect for casual gaming enthusiasts!
 
